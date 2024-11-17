@@ -1,8 +1,5 @@
 # Hi there 👋, I'm Alireza Javanmardi
 
-![GitHub followers](https://img.shields.io/github/followers/alirezajavanmardi?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/alirezajavanmardi?style=social)
-
 I'm a **Project Manager** and **Backend Developer** at [Armano](https://armano.io). I specialize in building scalable and efficient backend systems while also managing projects effectively to deliver high-quality software solutions.
 
 ---
