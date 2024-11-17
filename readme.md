@@ -24,12 +24,6 @@ Here are some of the technologies I work with:
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
-
----
-
 ## 🚀 About Me
 - 🔭 I’m currently working at **Armano Company** to simplify human resources management.
 - 🌱 I’m learning **Go** to expand my backend expertise.
