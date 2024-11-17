@@ -1,36 +1,53 @@
-# Hi there 👋, I'm Alireza Javanmardi!
+# Hi there 👋, I'm Alireza Javanmardi
 
-I'm a passionate software developer currently working at [Armano Company](https://armano.io). I specialize in building scalable and efficient applications using modern technologies. I'm always eager to learn new things and explore the latest in tech.
+![GitHub followers](https://img.shields.io/github/followers/alirezajavanmardi?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/alirezajavanmardi?style=social)
+
+I'm a **Project Manager** and **Backend Developer** at [Armano](https://armano.io). I specialize in building scalable and efficient backend systems while also managing projects effectively to deliver high-quality software solutions.
 
 ---
 
-## 🛠️ Skills
-Here are some of the technologies I work with:
+## 🛠️ Technologies & Skills
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,angular,rust,tauri,postgres,mongodb,git,prisma,express,fastify,react,ts,js,rabbitmq&theme=light" alt="My Skills" />
-  <img src="https://img.shields.io/badge/-S3%20Storage-569A31?logo=amazonaws&logoColor=white" alt="S3 Storage" style="margin-left: 10px;" />
-  <img src="https://img.shields.io/badge/-gRPC-4285F4?logo=google&logoColor=white" alt="gRPC" style="margin-left: 10px;" />
-</div>
+### Programming Languages
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Rust](https://skillicons.dev/icons?i=rust)
+![Go](https://skillicons.dev/icons?i=go)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+
+### Frameworks & Libraries
+![NestJS](https://skillicons.dev/icons?i=nestjs)
+![Express](https://skillicons.dev/icons?i=express)
+![Fastify](https://skillicons.dev/icons?i=fastify)
+![React](https://skillicons.dev/icons?i=react)
+![Angular](https://skillicons.dev/icons?i=angular)
+
+### Databases
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Prisma](https://skillicons.dev/icons?i=prisma)
+
+### Tools & Platforms
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS S3](https://skillicons.dev/icons?i=aws)
+![gRPC](https://skillicons.dev/icons?i=grpc)
+![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
+![Git](https://skillicons.dev/icons?i=git)
+![Tauri](https://skillicons.dev/icons?i=tauri)
 
 ---
 
 ## 🌱 Currently Learning
-- **Go** 🐹
+I'm currently diving into **Go** to expand my expertise in backend development and system design.
 
 ---
 
-## 📫 How to reach me
+## 📫 Contact Me
 - **Email**: [alizzjavan77@gmail.com](mailto:alizzjavan77@gmail.com)
-- **GitHub**: [Alireza Javanmardi](https://github.com/your-github-username)
+- **LinkedIn**: [linkedin.com/in/alirezajavanmardi](https://www.linkedin.com/in/alirezajavanmardi)
+- **X (formerly Twitter)**: [@javanmardi_](https://twitter.com/javanmardi_)
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m currently working at **Armano Company** to simplify human resources management.
-- 🌱 I’m learning **Go** to expand my backend expertise.
-- 🤝 I’m open to collaborating on **Open Source Projects** and innovative ideas.
-
----
-
-*Let's build something amazing together!*
+Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaboration 🚀.
